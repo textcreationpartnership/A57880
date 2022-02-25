@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules for self-examination extracted out of the writings of an eminent divine, very necessary for Christians at all times, especially at their preparation to receive the sacrament of the Lord's Supper that so they may become worthy receivers thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57880</idno>
+            <idno type="STC">Wing R2256</idno>
+            <idno type="STC">ESTC R25529</idno>
+            <idno type="EEBO-CITATION">09008073</idno>
+            <idno type="OCLC">ocm 09008073</idno>
+            <idno type="VID">42201</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57880)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42201)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1293:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules for self-examination extracted out of the writings of an eminent divine, very necessary for Christians at all times, especially at their preparation to receive the sacrament of the Lord's Supper that so they may become worthy receivers thereof.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ten commandments.</term>
+               <term>Lord's Supper.</term>
+               <term>Christian ethics.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:42201:1"/>
+            <head>RULES FOR SELF-EXAMINATION, Extracted out of the Writings of an Eminent <hi>Divine,</hi> very neceſſary for Chriſtians at all Times, Eſpecially at their Preparation to Recieve the Sacrament of the LORD's SUPPER; that ſo they may become Worthy Receivers thereof.</head>
+            <head>Neceſſary to be ſet up in all Men's Houſes for the Spiritual Benefit of their Families.</head>
+            <div type="commandment">
+               <head>Sins againſt the I. Commandment.</head>
+               <list>
+                  <item>1 ATheiſm; which is, when men either think there is no God, or live as if there were no God.</item>
+                  <item>2 Idolatry; which is the having of a falſe God.</item>
+                  <item>3 Ignorance, uncapableneſs of Knowledge, Errors and Hereſies.</item>
+                  <item>4 Forgetfulneſs of good things, eſpecially thoſe that moſt concern us, and chiefly at that inſtant when we ſhould make uſe of them: Secondly, remembring of evil things, eſpecially of thoſe that may moſt corrupt us; and chiefly then, when we ſhould be moſt free from the thought of them.</item>
+                  <item>5 Unwillingneſs unto good things principally to the beſt; readineſs unto, and wilfulneſs in evil, eſpecially the worſt: Secondly impatience under croſſes.</item>
+                  <item>6 Diſtruſt of Gods power, mercy, &amp;c. promiſes, and providence; whence carnal fears are wrought and cheriſhed, and the true fear o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> God is expeld and baniſhed.</item>
+                  <item>7 Preſumption upon Gods mercy.</item>
+                  <item>8 Carnal confidence in Wit, Learning, Wealth, Strength, Friends, &amp;c. Thinking our ſelves the better, or ſafer, ſimply for them; whence ariſeth pride and ſecurity.</item>
+                  <item>9 Much love of evil; as alſo of our ſelves our Friends, our pleaſure, profit, credit, &amp;c. Secondly, little love of God and of goodneſs, and of Gods Servants and Services.</item>
+                  <item>10 Hatred of God and goodneſs: Secondly, want of hatred againſt our own and others Sins.</item>
+                  <item>11 Abundance of worldly ſorrow, ſhame and diſcon<g ref="char:EOLhyphen"/>tentment: Secondly, want of ſpiritual grief and indig<g ref="char:EOLhyphen"/>nation againſt our own and others tranſgreſſions: Thirdly, not lamenting for the calamities of Gods Peo<g ref="char:EOLhyphen"/>ple, private or publick</item>
+                  <item>12 Immoderate carnal mirth: to little ſpiritual joy<g ref="char:EOLhyphen"/>ing <gap reason="illegible" resp="#UOM" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap> ing things either without, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> againſt the Rules of the World.</item>
+               </list>
+            </div>
+            <div type="commandment">
+               <head>Sins againſt the II. Commandment.</head>
+               <list>
+                  <item>1 BAſe and unwarranted conceits of God, as when we frame any Image of him in our minds</item>
+                  <item>2 Worſhiping of Images</item>
+                  <item>3 Adoration of Ange<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s or S<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s obſerving Holy<g ref="char:EOLhyphen"/>dayes in devotion to them, ſwearing by them, &amp;c.</item>
+                  <item>4 Approbation of Idolatry, by preſence, ſpeech, geſ<g ref="char:EOLhyphen"/>ture, ſilence, keeping of ſuperſtitions Relikes and Mo<g ref="char:EOLhyphen"/>numents, keeping company with Idolaters &amp;c.</item>
+                  <item>5 Neglect of any of Gods Ordinances as of Preach<g ref="char:EOLhyphen"/>ing, Hearing<g ref="char:punc">▪</g> Reading<g ref="char:punc">▪</g> Meditation<g ref="char:punc">▪</g> Conference, the uſe of good Books, and of good Company, of private and publick Prayer, Faſting, making of Vows, &amp;c.</item>
+                  <item>6 Superſticious Faſting raſh Vows, Breach of lawful Vows, abuſe of Lots, &amp;c</item>
+                  <item>7 Want of ſorrow, for being born of Idolatrous Forefathers.</item>
+               </list>
+            </div>
+            <div type="commandment">
+               <head>Sins againſt the III. Commandment.</head>
+               <list>
+                  <item>1 PRofeſſion, joined with prophaneſs, whereby Gods Name is diſhonoured.</item>
+                  <item>2 Abaſing of Gods Word: Firſt by fruitleſs ſpeaking of it: Secondly<g ref="char:punc">▪</g> framing jeſts out of it, or againſt it: Thirdly, maintaining of Sin by it: Fourthly, applying it to charming &amp;c.</item>
+                  <item>3 Abaſing the Names or Titles of God: Firſt, by admiration as by ſaying in our common talk, O Lord, O Jeſus, &amp;c Secondly by curſing, &amp;c</item>
+                  <item>4 Swearing vainly, outragiouſly, falſly, &amp;c.</item>
+                  <item>5 Blaſpheming.</item>
+                  <item>6 Taking a lawful Oath, without due reverence and conſideration.</item>
+                  <item>7 Praying without faith, feeling reverence, ſerven<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> not waiting for an anſwer &amp;c Asking evil things: A<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ing more in our requeſts at the relieving of our neceſſity, than at the advancement of Gods glory</item>
+                  <item>8 Hearing, reading, meditating, conferring, ſinging of Pſalms, and receiving the Sacrament, without prepa<g ref="char:EOLhyphen"/>ration, attention, reverence, delight, and profit.</item>
+                  <item>9 Light paſſing over of Gods great works of Cre<g ref="char:EOLhyphen"/>ation, Preſervation, Redemption, as alſo of other his mercies, and Judgments.</item>
+                  <item>10 Abuſe of our Chriſtian liberty, to the hardening, enſnaring, perverting, or juſt grieving of any.</item>
+               </list>
+            </div>
+            <div type="commandment">
+               <head>Sins againſt the IV. Commandment.</head>
+               <list>
+                  <item>1 NEglect of preparation for the Sabbath, be<g ref="char:EOLhyphen"/>fore it come, and of fitting our Hearts for Holy ſervices, when it is come.</item>
+                  <item>2 Prophane abſence from, or unfruitful preſence at Gods Ordinance.</item>
+                  <item>3 Exceſſive eating and drinking, which cauſeth drowſineſs, and unfitneſs for Gods worſhip.</item>
+                  <item>4 Doing any ordinary work of our Calling.</item>
+                  <item>5 All Recreations, which diſtract.</item>
+                  <item>6 Vain and worldly ſpeeches and thoughts.</item>
+                  <item>7 A ſecret deſire that the Sabbath were over.</item>
+                  <item>8 Neglect of calling our ſelves, or others, to a Recko<g ref="char:EOLhyphen"/>ning after Holy Exerciſes.</item>
+                  <item>9 Giving liberty to our ſelves in the night before the whole Sabbath be ended.</item>
+               </list>
+            </div>
+            <div type="commandment">
+               <head>Sins againſt the V. Commandment.</head>
+               <div type="section">
+                  <head>Sins of Inferiors, as to Superiors.</head>
+                  <list>
+                     <item>1 WAnt of reverence, inward or outward.</item>
+                     <item>2 Neglect of Prayer.</item>
+                     <item>3 And of humble ſubmiſſion.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Sins of Superiors.</head>
+                  <list>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap>
+                     </item>
+                     <item>2 Failing in Prayer.</item>
+                     <item>3 And in giving good example.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Sins of Children as to Parents.</head>
+                  <list>
+                     <item>1 D<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ience.</item>
+                     <item>2 Murmuring at their Parents corrections, though unjuſt</item>
+                     <item>3 Contemning of them, for any defect of body and mind</item>
+                     <item>4 Unthankfulneſs in not relieving them, not ſtand<g ref="char:EOLhyphen"/>ing for their deſerved credit, &amp;c.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Sins of Parents.</head>
+                  <list>
+                     <item>1 Negligence, in not inſtructing their Children betimes.</item>
+                     <item>2 Not correcting them till it be too late; or doing it with bitterneſs, without compaſſion, inſtruction, and Prayer.</item>
+                     <item>3 Giving them ill example.</item>
+                     <item>4 Neglect of bringing them up in ſome lawful Cal<g ref="char:EOLhyphen"/>ing.</item>
+                     <item>5 Not beſtowing them timely and religiouſly in Marriage.</item>
+                     <item>6 Light behavior before them, and too much fa<g ref="char:EOLhyphen"/>miliaritie with them, whereby they become vile in their Eyes.</item>
+                     <item>7 Loving Beauty, or any outward parts, more than Gods Image in them.</item>
+                     <item>8 A Sin peculiar to the Mother, is, refuſing to nurſe them.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Servants Sins as to Governours.</head>
+                  <list>
+                     <head>The three Firſt Sins in Children, may be in Servants as alſo theſe that follow.</head>
+                     <item>1 Idleneſs in their Calling.</item>
+                     <item>2 Un<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſtineſs and unfaithfulneſs in dealing with their Maſters goods and affaires</item>
+                     <item>3 Stealing, priv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e defrauding of them, &amp;c.</item>
+                     <item>4 Eye ſerv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ce.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Divers Sins of Parents are found in Maſters, as alſo theſe that follow.</head>
+                  <list>
+                     <item>1 Unadviſed entertainment of Sinfull Servants.</item>
+                     <item>2 Not uſing religious exerciſes with them: not ad<g ref="char:EOLhyphen"/>moniſhing nor correcting them, or doing it in an evill manner: grieving more when they fail in their buſi<g ref="char:EOLhyphen"/>neſs, than when they are ſlack in Gods ſervice.</item>
+                     <item>3 Not recompenſing their labours, by giving them a due reward when they are with them, and when they part from them.</item>
+                     <item>4 Neglect of them in ſickneſs: unjuſt ſtopping of their wages for that time.</item>
+                     <item>5 Not relieving them (if they be able) in their age, who have ſpent their youth in their ſervice.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Sins of the Wife as to the Husband.</head>
+                  <list>
+                     <item>1 Failing in reverence: which appeareth in froward looks, ſpeeches, or behaviour.</item>
+                     <item>2 Diſobedience in the ſmalleſt matters.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Sins of the Husband.</head>
+                  <list>
+                     <item>1 Not dwelling with his Wife.</item>
+                     <item>2 Neglect of Edifying her, by Inſtruction and Ex<g ref="char:EOLhyphen"/>ample.</item>
+                     <item>3 Denying her comfortable maintenance, and Im<g ref="char:EOLhyphen"/>ployment.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Sins common to them both.</head>
+                  <list>
+                     <item>1 Want of love.</item>
+                     <item>2 Bewraying one anothers infirmities: Diſcovering each others Secrets.</item>
+                     <item>3 Jealouſie.</item>
+                     <item>4 Contention.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Sins of the People, as to Miniſters.</head>
+                  <list>
+                     <item>Diſobeying and oppoſing againſt th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> wronged.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Sins of Miniſters.</head>
+                  <list>
+                     <item>1 Slackneſs in Preaching.</item>
+                     <item>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                     <item>3 Giving ill Example.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Sins of Subjects.</head>
+                  <list>
+                     <item>1 Rebellion.</item>
+                     <item>2 Refuſing to pay dues.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Sins of Magiſtrates.</head>
+                  <list>
+                     <item>1 Careleſneſs in eſtabliſhing and promoting true Religion.</item>
+                     <item>2 Of maintaining peace, and providing that Male<g ref="char:EOLhyphen"/>factors may be puniſhed, and well-doers be encouraged.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Sins of Inferiors in gift or Age.</head>
+                  <list>
+                     <item>1 Not acknowledging, nor reverencing, nor imi<g ref="char:EOLhyphen"/>tating the Graces of their Superiors.</item>
+                     <item>2 Deſpiſing of the Aged.</item>
+                  </list>
+               </div>
+            </div>
+            <div type="commandment">
+               <head>Sins againſt the VI. Commandment.</head>
+               <list>
+                  <item>1 RAſh Anger, Envy, Hatred, Malice.</item>
+                  <item>2 Brawling, Reviling, Threatning, and pro<g ref="char:EOLhyphen"/>voking of others.</item>
+                  <item>3 Fighting.</item>
+                  <item>4 Cruelty in puniſhing<g ref="char:punc">▪</g> oppreſſing &amp;c.</item>
+                  <item>5 Murthering of our ſelves, or others, or conſent thereto.</item>
+                  <item>6 Immoderate worldly ſorrow: Neglect of Phyſick, of wholeſom dyet and exerciſe, ſurfeiting and drunken<g ref="char:EOLhyphen"/>neſs; all which are enemies to the health and life of Man.</item>
+                  <item>7 Cruelty to our own or others Souls.</item>
+               </list>
+            </div>
+            <div type="commandment">
+               <head>Sins againſt the VII. Commandment.</head>
+               <list>
+                  <item>1 ADultery Fornication, Inceſt, Rape Sodomy<g ref="char:punc">▪</g>
+                  </item>
+                  <item>2 All wantonneſs, ſecret or open, alone, or with others</item>
+                  <item>3 Nocturnal pollutions luſtful dreams &amp;c.</item>
+                  <item>4 Unholy Marriages in regard of Religion, Age, nearneſs of blood, want of Parents conſent, &amp;c.</item>
+                  <item>5 Abuſe of the Marriage-Bed, not obſerving the time of natural ſeparation, <hi>Lev.</hi> 18.19. ſolemn humili<g ref="char:EOLhyphen"/>ation.</item>
+                  <item>6 Nouriſhing of the cauſes and occaſions of Wan<g ref="char:EOLhyphen"/>tonneſs as impare Luſts, Surfetting, Drunkenneſs, Idle<g ref="char:EOLhyphen"/>neſs, laſcivious Apparel, ſociety with laſcivious perſons, leud Books Songs, or Speeches, wanton Looks, Pic<g ref="char:EOLhyphen"/>tures, Stage Playes, Dancing Dalliance, &amp;c.</item>
+                  <item>7 Wearing Apparel, contrary to our Sex.</item>
+                  <item>8 Unlawful Divorce.</item>
+               </list>
+            </div>
+            <div type="commandment">
+               <head>Sins againſt the VIII. Commandment.</head>
+               <list>
+                  <item>1 COvetouſnes, and all deſire of our Neigh<g ref="char:EOLhyphen"/>bours goods, albeit through fear or ſhame we cannot get them.</item>
+                  <item>2 Church robbing.</item>
+                  <item>3 Robb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng of our ſelves by waſtfulneſs in Dyet, Apparel, Gaming, &amp;c. by Idleneſe, unadviſed Sure<g ref="char:EOLhyphen"/>tiſhip, N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ggardlineſs, &amp;c.</item>
+                  <item>4 Robbing of others, taking away the ſmalleſt things: Firſt, by fraud: Secondly, uncharitable inclo<g ref="char:EOLhyphen"/>ſure: Thirdly, dealing wrongfully with the goods of the deceaſed: Fourthly, deceit in buying and ſelling: Fifthly, with holding either things committed unto us, or things found, lent, earned, or otherwiſe due</item>
+                  <item>5 Not making of reſtitution.</item>
+                  <item>6 Counſelling, or conſenting to others in Theft.</item>
+               </list>
+            </div>
+            <div type="commandment">
+               <head>Sins againſt the IX. Commandment.</head>
+               <list>
+                  <item>1 FAlſe witneſs bearing in publick or private, or conſent thereunto. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>ane reports o<gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>3 Raſh ſuſpition; hard judging interpreting things in the worſt ſence.</item>
+                  <item>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>4 Aggravating and diſcovering others infirmities, without care of their credit, others edi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ication, or our own good.</item>
+                  <item>5 Flattery.</item>
+                  <item>6 Lying, though in jeſt, or to a good end.</item>
+                  <item>7 Boaſting</item>
+                  <item>8 Injurous charging of our ſelves to be Hypocrites in time of temptation.</item>
+                  <item>9 Want of care of our own and others good name, that God might have more glory.</item>
+               </list>
+            </div>
+            <div type="commandment">
+               <head>The breach of the X. Commandment.</head>
+               <p>MUltitudes of evil thoughts and motions a<g ref="char:EOLhyphen"/>gainſt our Neighbours, and ſcarcity of ſuch as are good.</p>
+               <p>Theſe Rules are framed (as you ſee) in reference to the Breach of each Commandement in the Deca<g ref="char:EOLhyphen"/>logue, which by the Apoſtle St. <hi>James,</hi> is called <hi>The Law of laberty;</hi> not that it gives the leaſt incourage<g ref="char:EOLhyphen"/>ment to, but frees us from the Bondage of Sin and Cor<g ref="char:EOLhyphen"/>ruption as it is managed in the hand of a Mediator; by which if we judge and condemn our ſelves, we ſhall not be Condemned with the world.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Ge<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rge Cr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> in <hi>T<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſtreet,</hi> over againſt <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>'s Caſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
